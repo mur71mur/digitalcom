@@ -3,6 +3,7 @@
 npm install
 ```
 
+# 実行
 ```
 //課題1aの8PAMのSER
 node kadai1a.js
